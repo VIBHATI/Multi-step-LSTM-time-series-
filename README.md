@@ -1,2 +1,2 @@
-# Multi-step-LSTM-time-series
+# Multi-step-LSTM-multiple time-series
 This code demonstrates the application of Long short term memory networks (LSTM) to time series data. The data source used for this code is https://www.kaggle.com/c/m5-forecasting-accuracy/data. I have considered sales data for making two-step ahead forecasts. You may extend this to more than two steps. Only the sales time series is considered here. This demo code shows how a single LSTM model can be used to make forecast for multiple time series.
